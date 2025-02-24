@@ -42,8 +42,8 @@
 ## 3. 모델 성능 및 평가 
 ### 3.1 모델 정확도 및 재현율 
 - 정확도 88% 재현율 92%
-![ROC커브그래프](pictures/ROC커브그래프.png)
-![confusion_matrix](pictures/confusion_matrix.png)
+<img src="https://github.com/MrCaplan/Medical-Insurance-Fraud-Detection-Using-Logistic-Regression/blob/main/pictures/ROC%E1%84%8F%E1%85%A5%E1%84%87%E1%85%B3%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3.png" width="600" height="600"/>
+<img src="https://github.com/MrCaplan/Medical-Insurance-Fraud-Detection-Using-Logistic-Regression/blob/main/pictures/confusion_matrix.png" width="600" height="600"/>
 
 ### 3.2 평가 
 - 아쉬운 정확도
