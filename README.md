@@ -42,6 +42,8 @@
 ## 3. 모델 성능 및 평가 
 ### 3.1 모델 정확도 및 재현율 
 - 정확도 88% 재현율 92%
+![ROC커브그래프](pictures/ROC커브그래프.png)
+![confusion_matrix](pictures/confusion_matrix.png)
 
 ### 3.2 평가 
 - 아쉬운 정확도
